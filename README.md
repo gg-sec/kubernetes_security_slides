@@ -1,4 +1,4 @@
-# kuberentes_security_slides
+# Kubernetes Attack Surface - Slides
 Slides from my last talk on Kubernetes Attack Surface at Berlin Security Meetup 27-02-2020
 
 Feel free to share them around. Keep in mind that I just started exploring Kubernetes Security Aspects at the end of November, so if you think something is not accurate, feel free to let me know.
